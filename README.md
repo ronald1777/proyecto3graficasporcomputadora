@@ -4,14 +4,6 @@ Proyecto final de Gráficas por Computadora: una simulación espacial interactiv
 
 ## Video de demostración
 
-> **Pendiente:** graba un recorrido de la cámara y guarda el archivo como `media/recorrido.mp4`. Al subirlo al repositorio, este enlace quedará disponible:
-
-[▶ Ver el recorrido por el sistema Helios](media/recorrido.mp4)
-
-El video puede mostrar el despegue, el vuelo entre planetas, un cambio de altura y un acercamiento a una órbita. No necesita narración. Si el MP4 resulta demasiado pesado para GitHub, súbelo a YouTube o a GitHub Releases y reemplaza el enlace anterior por el enlace público.
-
-GIF opcional: puedes guardar una animación corta como `media/recorrido.gif` y compartirla en Discord. Cuando el archivo exista, puedes mostrarlo aquí con `![Vista animada del sistema Helios](media/recorrido.gif)`.
-
 ## Características
 
 - Una estrella y doce planetas de distintos tamaños, colores y texturas, alineados en el plano eclíptico.
