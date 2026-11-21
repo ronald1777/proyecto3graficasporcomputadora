@@ -4,7 +4,7 @@ Proyecto final de Gráficas por Computadora: una simulación espacial interactiv
 
 ## Video de demostración
 
-<video src="media/VID-20261120-WA0067.mp4" controls width="600"></video>
+<video src="media/VID-20261120-WA0067.mp4"></video>
 
 ## Características
 
