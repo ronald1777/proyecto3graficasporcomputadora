@@ -1,10 +1,10 @@
-# ORBITA — Sistema Helios
+# PROYECTO 3 GRÁFICAS POR COMPUTADORA
 
 Proyecto final de Gráficas por Computadora: una simulación espacial interactiva hecha en Rust. El programa usa un **renderer de software propio**: transforma y proyecta la geometría, calcula iluminación y profundidad, y dibuja cada cuadro en un framebuffer desde la CPU.
 
 ## Video de demostración
 
-<video src="media/VID-20261120-WA0067.mp4"></video>
+<video src="https://github.com" controls width="600"></video>
 
 ## Características
 
