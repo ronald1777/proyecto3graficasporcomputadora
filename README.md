@@ -3,7 +3,7 @@
 Proyecto final de Gráficas por Computadora: una simulación espacial interactiva hecha en Rust. El programa usa un **renderer de software propio**: transforma y proyecta la geometría, calcula iluminación y profundidad, y dibuja cada cuadro en un framebuffer desde la CPU.
 
 ## Video de demostración
-
+[media/VID-20261120-WA0067.mp4]
 ## Características
 
 - Una estrella y doce planetas de distintos tamaños, colores y texturas, alineados en el plano eclíptico.
