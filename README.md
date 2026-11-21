@@ -4,7 +4,9 @@ Proyecto final de Gráficas por Computadora: una simulación espacial interactiv
 
 ## Video de demostración
 
-<video src="https://github.com" controls width="600"></video>
+<video src="media/VID-20261120-WA0067.mp4" controls width="100%"></video>
+
+https://github.com/ronald1777/proyecto3graficasporcomputadora/blob/main/media/VID-20261120-WA0067.mp4?raw=true
 
 ## Características
 
